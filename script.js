@@ -121,7 +121,7 @@ function renderWelcome() {
 
             <div class="eyebrow">
                 <span class="eyebrow-line"></span>
-                VICto ORDER GUIDE
+                VICTO ORDER GUIDE
             </div>
 
             <h1>
